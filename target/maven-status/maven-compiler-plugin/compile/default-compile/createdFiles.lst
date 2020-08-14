@@ -1,0 +1,9 @@
+config\ConfigJSF.class
+managedbeans\CustomerMBean.class
+fr\grin\tpcustomerapplicationouadfel\resources\JavaEE8Resource.class
+fr\grin\tpcustomerapplicationouadfel\JAXRSConfiguration.class
+fr\grin\tpcustomerapplicationouadfel\entities\DiscountCode.class
+managedbeans\CustomerDetailsMBean.class
+session\CustomerManager.class
+fr\grin\tpcustomerapplicationouadfel\entities\Customer.class
+fr\grin\tpcustomerapplicationouadfel\entities\MicroMarket.class
